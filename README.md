@@ -64,7 +64,7 @@ RegisterNumber:  212225220086
 
 ## Output:
 ![best fit line](sam.png)
-<img width="862" height="782" alt="Screenshot 2026-04-20 144159" src="https://github.com/user-attachments/assets/760ffe13-79ef-4890-8979-668047514bd3" />
+<img width="1039" height="786" alt="Screenshot 2026-04-20 144136" src="https://github.com/user-attachments/assets/bc77b95e-0f9e-4bfd-95bf-297c586b7ee9" />
 <img width="862" height="782" alt="Screenshot 2026-04-20 144159" src="https://github.com/user-attachments/assets/4d2c0343-dcc9-433c-85dd-e562c8a9edb5" />
 
 
